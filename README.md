@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 I'm a brazilian medical physicist with master in Biotechnology and currently a PhD candidate (Biotechnology) at São Paulo State University ([UNESP](https://unesp.br/)). On April 2022 I joined the Witek Lab at [New York University](https://www.nyu.edu/) as a visiting schoolar. 
 
-🔭 I’m currently working on the development of tools for bone biomaterials analysis, focusing on alternative methods to animal testing.  
+- 🔭 I’m currently working on the development of tools for bone biomaterials analysis, focusing on alternative methods to animal testing.  
 
-:eyes: I have interest in biological databases, bioinfomatics analysis, data science, machine learning and new technologies as 3D bioprinting and organ-on-a-chip.  
+- :eyes: I have interest in biological databases, bioinfomatics analysis, data science, machine learning and new technologies as 3D bioprinting and organ-on-a-chip.  
 
-<div>
+- :notebook: Please see my list of scientific publications on my google school profile.
+
+- :triangular_ruler: My daily tools
+<div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -33,11 +36,13 @@ I'm a brazilian medical physicist with master in Biotechnology and currently a P
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
 </div>
 
-📫 How to reach me:
+- 📫 How to reach me:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" a = "https://www.linkedin.com/in/marceelrf/" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+<div align = "center">
+  <a href="https://www.linkedin.com/in/marceelrf/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.twitter.com/marceelrf/"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="45" height="40"/></a>&nbsp;
+  <a href = "mailto:marcel.ferreira@unesp.br"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" title="Gmail" alt="Gmail" width="45" height="40"/></a>&nbsp;
+  <a href = "https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" title="Schoolar" alt="Schoolar" width="40" height="40"/></a>&nbsp;
 </div>
 
 ## 💬 Ask me anything
