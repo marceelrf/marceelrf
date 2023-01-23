@@ -57,3 +57,7 @@ I'm a brazilian medical physicist with master in Biotechnology and currently a P
  - :bug: Bugs & feature requests should be opened on the relevant issue tracker (i.e., on the issue tracker of the corresponding [GitHub](https://github.com/marceelrf/) repository).
  - :signal_strength: Support questions are better asked on [Stack Overflow](https://stackoverflow.com/) and maths questions on [Math Exchange](https://math.stackexchange.com/).
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
+
+### Meet me!
+
+<iframe src="https://koalendar.com/e/meet-with-marcel-ferreira?embed=true" width="100%" height="800px" frameborder="0"></iframe>
