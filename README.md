@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm a brazilian medical physicist with master and PhD (Biotechnology) at São Paulo State University ([UNESP](https://unesp.br/)). Between April and December 2022 I was a visiting scholar on theWitek Lab at [New York University](https://www.nyu.edu/). 
+I'm a brazilian medical physicist with master and PhD (Biotechnology) at São Paulo State University ([UNESP](https://unesp.br/)). Between April and December 2022 I was a visiting scholar on the Witek Lab at [New York University](https://www.nyu.edu/). Since 2023, Postdoc at Botucatu Medical School - GemBio.
 
 - 🔭 I’m currently working on the development of tools for bone biomaterials analysis, focusing on alternative methods to animal testing.  
 
