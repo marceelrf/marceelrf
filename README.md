@@ -36,9 +36,9 @@ I'm a brazilian medical physicist with master and PhD (Biotechnology) at São Pa
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
 </div>
-
+<!--
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marceelrf)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 - 📫 How to reach me:
 
 <div align = "center">
