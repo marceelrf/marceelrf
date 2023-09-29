@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm a brazilian medical physicist with master and PhD (Biotechnology) at São Paulo State University ([UNESP](https://unesp.br/)). Between April and December 2022 I was a visiting scholar on the Witek Lab at [New York University](https://www.nyu.edu/). Since 2023, Postdoc at Botucatu Medical School - GemBio.
+I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from São Paulo State University ([UNESP](https://unesp.br/)). Between April and December 2022 I was a visiting scholar in the Witek Lab at [New York University](https://www.nyu.edu/). Since 2023, Postdoc at Botucatu Medical School - GemBio.
 
-- 🔭 I’m currently working on the development of tools for bone biomaterials analysis, focusing on alternative methods to animal testing.  
+- 🔭 I’m currently working on the development of tools for Oxford Nanopore Technologies analysis.  
 
-- :eyes: I have interest in biological databases, bioinfomatics analysis, data science, machine learning and new technologies as 3D bioprinting and organ-on-a-chip.  
+- :eyes: I have an interest in biological databases, bioinformatics analysis, data science, machine learning, and new technologies such as 3D bioprinting and organ-on-a-chip.  
 
-- :notebook: Please see my list of scientific publications on my google school profile.
+- :notebook: Please see my list of scientific publications on my Google school profile.
 
 - :triangular_ruler: My daily tools
 <div align = "center">
