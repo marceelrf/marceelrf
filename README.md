@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from São Paulo State University ([UNESP](https://unesp.br/)). Between April and December 2022 I was a visiting scholar in the Witek Lab at [New York University](https://www.nyu.edu/). Since 2023, Postdoc at Botucatu Medical School - GemBio.
 
-- 🔭 I’m currently working on the development of tools for Oxford Nanopore Technologies analysis.  
+- 🔭 I’m currently working on the development of tools for Oxford Nanopore Technologies analysis.
+
+<div align = "center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnanoporetech&psig=AOvVaw0Vr8sLyiS7sIGC_LgnO5Sv&ust=1696702203800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCpzbWC4oEDFQAAAAAdAAAAABAE" title="Oxford Nanopore" alt="ONT" width="40" height="40"></img>
+</div>
 
 - :eyes: I have an interest in biological databases, bioinformatics analysis, data science, machine learning, and new technologies such as 3D bioprinting and organ-on-a-chip.  
 
