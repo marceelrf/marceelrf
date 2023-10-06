@@ -21,7 +21,7 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 - 🔭 I’m currently working on the development of tools for Oxford Nanopore Technologies analysis.
 
-<div align = "center"><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnanoporetech&psig=AOvVaw0Vr8sLyiS7sIGC_LgnO5Sv&ust=1696702203800000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCpzbWC4oEDFQAAAAAdAAAAABAE](https://avatars.githubusercontent.com/u/7668184?s=200&v=4)" title="Oxford Nanopore" alt="ONT" width="40" height="40"/>
+<div align = "center"><img src="https://avatars.githubusercontent.com/u/7668184?s=200&v=4" title="Oxford Nanopore" alt="ONT" width="40" height="40"/>
 </div>
 
 - :eyes: I have an interest in biological databases, bioinformatics analysis, data science, machine learning, and new technologies such as 3D bioprinting and organ-on-a-chip.  
