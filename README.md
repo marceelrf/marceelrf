@@ -23,7 +23,7 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 <div align = "center">
   <img src="https://avatars.githubusercontent.com/u/7668184?s=200&v=4" title="Oxford Nanopore" alt="ONT" width="40" height="40"/>
-  <img src="http://www.castelli-lab.net/assets/images/lgmb-no-site-771x460.png" title="GemBio" alt="GemBio" width="40" height="40"/>
+  <img src="http://www.castelli-lab.net/assets/images/lgmb-no-site-771x460.png" title="GemBio" alt="GemBio" width="60" height="40"/>
 </div>
 
 - :eyes: I have an interest in biological databases, bioinformatics analysis, data science, machine learning, and new technologies such as 3D bioprinting and organ-on-a-chip.  
