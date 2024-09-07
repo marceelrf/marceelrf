@@ -46,6 +46,7 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marceelrf)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+
 - 📫 How to reach me:
 
 <div align = "center">
@@ -54,6 +55,20 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
   <a href = "mailto:marcel.ferreira@unesp.br"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" title="Gmail" alt="Gmail" width="45" height="40"/></a>&nbsp;
   <a href = "https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" title="Schoolar" alt="Schoolar" width="40" height="40"/></a>&nbsp;
 </div>
+
+## Research interests
+
+- Alternative methods to the use of animals;
+
+- Human identification via DNA;
+
+- Bone tissue biology;
+
+- Biomaterials;
+
+- Tissue regeneration;
+
+- Open science;
 
 ## 💬 Ask me anything
 
