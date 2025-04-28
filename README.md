@@ -73,7 +73,7 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 ## Featured projects
 
-- [rosalind-cli](https://github.com/marceelrf/rosalind-cli/tree/master): This project aims to solve Rosalind's problems and package them in a command-line interface (CLI) format.
+- [rosalind-cli](https://github.com/marceelrf/rosalind-cli/tree/master): This project aims to solve Rosalind's problems and package them in a command-line interface (CLI) format using Rust.
 
 ## 💬 Ask me anything
 
