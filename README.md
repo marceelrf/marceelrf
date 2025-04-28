@@ -71,6 +71,10 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 - Open science;
 
+## Featured projects
+
+- [rosalind-cli](https://github.com/marceelrf/rosalind-cli/tree/master): This project aims to solve Rosalind's problems and package them in a command-line interface (CLI) format.
+
 ## 💬 Ask me anything
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/marceelrf#-ask-me-anything)
