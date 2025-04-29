@@ -77,6 +77,8 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 - [tidyspec](https://github.com/marceelrf/tidyspec): R package for spectroscopy data analysis with tidy syntax.
 
+- [Forensic Bioinfo life](https://github.com/marceelrf/ForenseBioinfo_life): This project aims to share reproducible bioinformatics code for forensic purposes.
+
 ## 💬 Ask me anything
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/marceelrf#-ask-me-anything)
