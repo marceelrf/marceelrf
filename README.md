@@ -32,7 +32,7 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 - 📐 My daily tools
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/Bioconductor/Bioconductor.png" title="Bioconductor" alt="Bioconductor" width="40" height="40"/>&nbsp;
   <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40" height="40"/>
-</div>
+</p>
 <!--
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marceelrf)](https://github.com/anuraghazra/github-readme-stats)
 -->
