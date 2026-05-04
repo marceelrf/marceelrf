@@ -49,10 +49,12 @@ I'm a Brazilian medical physicist with a master's and PhD (Biotechnology) from S
 
 - 📫 How to reach me:
 
-<div align = "center">
-  | | | | |
-  | :---: | :---: | :---: | :---: |
-  | <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="45" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" title="Gmail" alt="Gmail" width="45" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" title="Schoolar" alt="Schoolar" width="40" height="40"/> |
+<div align="center">
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/marceelrf/)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> | <a href="SEU_LINK_TWITTER"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/></a> | <a href="mailto:seu-email@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" title="Gmail" alt="Gmail" width="55" height="40"/></a> | <a href="SEU_LINK_SCHOLAR"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" title="Scholar" alt="Scholar" width="40" height="40"/></a> |
+
 </div>
 
 ## Research interests
